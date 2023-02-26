@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="waisbordmanuel_gmail_com@newbricks.tech:22 agent" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="waisbordmanuel_gmail_com@newbricks.tech:22 agent">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/waisbordmanuel_gmail_com/brickhack" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
